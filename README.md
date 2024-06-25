@@ -1,1 +1,1 @@
-# js-escrevenomeAlura
+# Repositório de atividades
